@@ -7,14 +7,13 @@ First Challenge for Bootcamp - Horiseon Marketing
 
 
 ### Tasks completed
-* Changed DIV to SECTION for Semantics
-* Added notes for future ease to both HTML and CSS
-* Added Title to improve Search SEO
-* Improved accessibilty critera by adding alt attributes to images
-* Added Header
-* Added Navigation
-* Fixed Anchor Links
-* Cleaned up list
+** Changed DIV to SECTION for Semantics 
+** Added notes for future ease to both HTML and CSS
+** Organized HTML and CSS
+** Added Title to improve Search SEO
+** Improved accessibilty critera by adding alt attributes to images
+** Fixed Links and Anchors
+
 
 ### Links
 
@@ -26,4 +25,7 @@ First Challenge for Bootcamp - Horiseon Marketing
 
 
 ### Resources Used
-* 
+* MDN (https://developer.mozilla.org/en-US/)
+* Chat GPT for README Format
+* Refered to Bootcamp Activities
+* "Office Hours" for additional questions
